@@ -1,2 +1,2 @@
 print("Hello dudes!")
-print('Success :D')
+print('Success! :D')
